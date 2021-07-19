@@ -1,1 +1,6 @@
 # Bankning-Crisis
+This dataset is a derivative of Reinhart et. al's Global Financial Stability dataset which can be found online at: https://www.hbs.edu/behavioral-finance-and-financial-stability/data/Pages/global.aspx italicized text
+
+The dataset specifically focuses on the Banking, Debt, Financial, Inflation and Systemic Crises that occurred, from 1860 to 2014, in 13 African countries, including: **Algeria, Angola, Central African Republic, Ivory Coast, Egypt, Kenya, Mauritius, Morocco, Nigeria, South Africa, Tunisia, Zambia and Zimbabwe.
+
+These are the economic and financial crises data from 1869 to 2014 in 13 African nations. This dataset has 14 attributes from 1060 observations, which is enough data to train a deep learning model for accurate prediction (1060 x 14). The set of features contains the US dollar exchange rate, information on many default metrics, inflation to annual CPI, and other critical factors that affect any country's banking and economic system. The dataset's final attribute contains categorical values indicating whether or not there was a crisis. As a result, the deep neural network will forecast whether or not there will be a banking crisis based on the data attributes.
